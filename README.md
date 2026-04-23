@@ -2,6 +2,39 @@
 
 ---
 
+## 📥 安装方法
+
+### 方法1（推荐）
+
+**第1步：安装 Tampermonkey 浏览器插件**
+
+- **Chrome / Edge / Brave / 其他 Chromium 内核浏览器**  
+  https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo  
+
+- **Microsoft Edge（Edge 插件商店）**  
+  https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd  
+
+- **Firefox**  
+  https://addons.mozilla.org/firefox/addon/tampermonkey/  
+
+- **Safari（macOS）**  
+  https://www.tampermonkey.net/?browser=safari  
+
+- **Opera**  
+  https://addons.opera.com/extensions/details/tampermonkey-beta/  
+
+**第2步：安装脚本**
+
+打开页面 [b站直播表情包增强](https://greasyfork.org/zh-CN/scripts/575095-b站直播表情包增强) 后点击面上方绿色的「安装此脚本」按钮，在弹出的页面中选择安装即可。
+
+### 方法2（不推荐）
+
+打开页面 [b站直播表情包增强 - 代码](https://greasyfork.org/zh-CN/scripts/575095-b站直播表情包增强/code) 后复制源代码，粘贴到浏览器控制台并回车执行。  
+
+⚠️ 注意：该方法2不会持久生效，每次刷新页面都需要重新执行一次，使用体验较差。
+
+---
+
 ## 🛠 修复与基础功能
 
 * 修复弹幕列表悬浮跳动问题
